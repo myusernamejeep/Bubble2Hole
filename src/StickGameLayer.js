@@ -1602,7 +1602,7 @@ Array.prototype.filterOutValue = function(v) {
   }
   return _results;
 };
-
+ 
 /* bind handler control */
 
 initGamePlayDemo = function() {
